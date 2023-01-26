@@ -2,6 +2,7 @@
 
 Violet is a novel identity protocol.  Its storage layer is Cardano.
 
-# Outline
+# Introduction
 
-An sound identity is context-dependent.
+A sound identity is context-dependent.
+
