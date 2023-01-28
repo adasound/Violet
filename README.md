@@ -4,7 +4,7 @@ Violet is a novel identity protocol.  Its storage layer is Cardano.  It currentl
 
 # Introduction
 
-A sound identity is context-dependent - it incorporates person, place and time.  A sound identity is maximally fraud-resistant yet freely composable.  Our objective is 100% identity sovereignty.  We currently straddle a divide between this ideal and practical implementation as we push toward the ideal. 
+A sound & person-sovereign identity is context-dependent: it incorporates person, place and time.  A sound identity is maximally fraud-resistant yet freely composable.  Our objective is 100% identity sovereignty.  We currently straddle a divide between this ideal and practical implementation as we push toward the ideal. 
 
 
 
