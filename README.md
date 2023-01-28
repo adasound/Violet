@@ -1,6 +1,6 @@
 # Violet
 
-Violet is a novel identity protocol.  Its storage layer is Cardano.  It currently runs on a publicly callable swarm network that is available for queries by any participating application, internet or otherwise, that requires high availability and uncompromising security.  Identity writes to the transactions layer (Cardano) are permissionless.  As nodes scale and participation increases, the high-availability query layer will be in the hands of additional public node operators. 
+Violet is a novel identity protocol.  Its storage layer is Cardano.  It currently runs on a publicly callable swarm network that is available for queries by any participating application, internet or otherwise, that requires high availability and the uncompromising security of Cardano's ledger.  Identity writes to the transactions layer (Cardano) are permissionless.  As nodes scale and participation increases, the high-availability query layer will be in the hands of additional private and public node operators who will initially be vendors.
 
 # Introduction
 
