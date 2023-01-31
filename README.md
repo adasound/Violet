@@ -2,9 +2,11 @@
 
 ## A sound & person-sovereign identity is composable, fraud-resistant and context-dependent. It incorporates person, place and time.  A sound identity is opt-in.
 
-https://violet.sage3.org
-Twitter: @hi_violet_id
-violet at sage3.org
+**https://violet.sage3.org**,
+**Twitter:** @hi_violet_id,
+**Mail:** violet at sage3.org.
+
+**Cardano POLICY ID: f0bc74744fd4d617e02950f47855b72c81c694a095e6d74e4e608b6e**
 
 # To run:
 
@@ -97,7 +99,7 @@ spatial + temporal gating of context-dependent identities.
 More to follow re. practical implementation and next steps for this project (Violet User Manual
 Part II)..
 
-**Cardano POLICY ID: f0bc74744fd4d617e02950f47855b72c81c694a095e6d74e4e608b6e**
+
 
 
 
