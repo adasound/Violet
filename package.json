@@ -1,0 +1,34 @@
+{
+  "name": "Violet",
+  "description": "Violet brings IDs home",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://violet.sage3.org",
+  "author": "Violet",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@meshsdk/core": "1.2.0-beta.4",
+    "@meshsdk/react": "1.1.1",
+    "blakejs": "^1.2.1",
+    "next": "13.0.3",
+    "random-string": "^0.2.0",
+    "react": "18.2.0",
+    "react-card-flip": "^1.2.0",
+    "react-code-blocks": "^0.0.9-0",
+    "react-dom": "18.2.0",
+    "serve": "^14.1.2",
+    "sharp": "^0.31.3",
+    "simple-base": "^1.0.0",
+    "sqlite3": "^5.1.4"
+  },
+  "devDependencies": {
+    "eslint": "8.27.0",
+    "eslint-config-next": "13.0.3"
+  }
+}
