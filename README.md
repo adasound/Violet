@@ -5,7 +5,7 @@
 
 
 
-#center ![g50](https://user-images.githubusercontent.com/96167782/215789144-3a36c26a-3580-4f47-855b-f5b291553108.png)
+#center ![g50](https://user-images.githubusercontent.com/96167782/215789144-3a36c26a-3580-4f47-855b-f5b291553108.png width="100")
 
 
 
