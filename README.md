@@ -1,9 +1,10 @@
 # Violet:
 
-# A sound & person-sovereign identity is composable, fraud-resistant and context-dependent: it incorporates person, place and time.
+## A sound & person-sovereign identity is composable, fraud-resistant and context-dependent. It incorporates person, place and time.  A sound identity is opt-in.
 
 https://violet.sage3.org
 Twitter: @hi_violet_id
+violet at sage3.org
 
 # To run:
 
