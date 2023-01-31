@@ -2,7 +2,7 @@
 
 ## A sound & person-sovereign identity is composable, fraud-resistant and context-dependent. It incorporates person, place and time.  A sound identity is opt-in.
 
-
+<p align="center">
 
 <img src="https://violet.sage3.org/_next/image?url=%2Fg50.png&w=640&q=75" width="100" height="100">
 
@@ -19,6 +19,7 @@ yarn install
 yarn build 
 yarn start
 
+</p>
 
 # Project outline:
 
