@@ -6,10 +6,10 @@
 
 <img src="https://violet.sage3.org/_next/image?url=%2Fg50.png&w=640&q=75" width="100" height="100" />
 
-
-<p>**https://violet.sage3.org** </p>
-<p>**Twitter:** @hi_violet_id </p>
-<p>**Mail:** violet at sage3.org </p>
+**
+<p>https://violet.sage3.org</p>
+<p>Twitter: @hi_violet_id</p>
+<p>Mail: violet at sage3.org </p>**
 
 <p>**Cardano POLICY ID: f0bc74744fd4d617e02950f47855b72c81c694a095e6d74e4e608b6e**</p>
 
