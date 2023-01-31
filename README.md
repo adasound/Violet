@@ -1,5 +1,5 @@
 ```diff
-- A sound & person-sovereign identity is composable, fraud-resistant and context-dependent.
+- A sound & self-sovereign identity is composable, fraud-resistant and context-dependent.
 - A sound identity incorporates person, place and time.  
 - A sound identity is opt-in.
 ```
