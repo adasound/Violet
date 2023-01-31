@@ -137,8 +137,8 @@ across the internet and IRL. We can have separate wallets to hold similarly grou
 contexts (or choose to keep everything separate in unrelated wallets), and we can determine the
 spatial + temporal gating of context-dependent identities.
 
-<b>More to follow re. practical implementation and next steps for this project (Violet User Manual
-Part II)..</b>
+More to follow re. practical implementation and next steps for this project (Violet User Manual
+Part II)..
 ```
 https://violet.sage3.org
 
