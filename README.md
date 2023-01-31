@@ -1,26 +1,25 @@
-**Violet**
-A sound & person-sovereign identity is composable, fraud-resistant and context-dependent: it incorporates person, place and time.
+# Violet:
+
+# A sound & person-sovereign identity is composable, fraud-resistant and context-dependent: it incorporates person, place and time.
 
 https://violet.sage3.org
 Twitter: @hi_violet_id
 
-**To run:**
+# To run:
 
 yarn install
 yarn build 
 yarn start
 
------------------------------------
 
-**Project outline:**
+# Project outline:
 
 Violet is a novel identity protocol.  Its storage layer is Cardano.  It will soon run on a publicly callable swarm network that is available for queries by any participating application, internet or otherwise, that requires high availability and the uncompromising security of Cardano's ledger.  Identity writes to the transactions layer (Cardano) are permissionless.  As nodes scale and participation increases, the high-availability query layer will be in the hands of additional node operators and vendors.
 
 Built with blakejs, meshjs, nextjs/react.
 
-----------------------------------
 
-**A primer on how it works (Violet User’s Manual Part I)**
+# A primer on how it works (Violet User’s Manual Part I)
 
 Person, place and time: building a Violet ID by example.  Violet enables the mapping of identities across the internet and in day-to-day contexts.
 It’s enabled by the immutable storage of encrypted information on Cardano’s ledger. We highlight the straightforward hashing steps below. More will follow in the form of video explanations / practical use of the web UI and coming offline + ID swarm tools, but here’s the dirt on how an ID is composed using Violet. We welcome criticism and suggestions.
@@ -37,7 +36,7 @@ very public (it's displayed on this Twitter profile for open verification) and s
 string was not used.
 
 
-Next we do some hashing. -
+Next we do some hashing:
 
 
 Hashing the person-defined inputs:
