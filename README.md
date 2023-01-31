@@ -1,6 +1,6 @@
 # Violet:
 
-## A sound & person-sovereign identity is composable, fraud-resistant and context-dependent. It incorporates person, place and time.  A sound identity is opt-in.
+## "A sound & person-sovereign identity is composable, fraud-resistant and context-dependent. It incorporates person, place and time.  A sound identity is opt-in." - Violet.
 
 <p align="center">
 
@@ -51,10 +51,8 @@ Hashing the person-defined inputs:
 
 variable1: Blake2bHex('twitter.com');
 
-<span style="color: green"> 
-'29a2427950340ae203d7e2b502711d61cc4eab5626e1749448290992e269baea7810ce18b090
-1e60ff330f8eb763719f65416d5c20ad1462b1fcc07a958b5594'
-</span>
+<span color="green"> '29a2427950340ae203d7e2b502711d61cc4eab5626e1749448290992e269baea7810ce18b090
+1e60ff330f8eb763719f65416d5c20ad1462b1fcc07a958b5594'</span>
   
 variable2: Blake2bHex('@Hi_Violet_ID');
 
