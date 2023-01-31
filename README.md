@@ -4,7 +4,7 @@
 
 
 
-<img src="https://your-image-url.type](https://user-images.githubusercontent.com/96167782/215789144-3a36c26a-3580-4f47-855b-f5b291553108.png" width="100" height="100">
+<img src="https://violet.sage3.org/_next/image?url=%2Fg50.png&w=640&q=75" width="100" height="100">
 
 
 **https://violet.sage3.org**,
