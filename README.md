@@ -1,11 +1,10 @@
 # Violet
 
-Violet is a novel identity protocol.  Its storage layer is Cardano.  It currently runs on a publicly callable swarm network that is available for queries by any participating application, internet or otherwise, that requires high availability and the uncompromising security of Cardano's ledger.  Identity writes to the transactions layer (Cardano) are permissionless.  As nodes scale and participation increases, the high-availability query layer will be in the hands of additional private and public node operators who will initially be vendors.
+Violet is a novel identity protocol.  Its storage layer is Cardano.  It will soon run on a publicly callable swarm network that is available for queries by any participating application, internet or otherwise, that requires high availability and the uncompromising security of Cardano's ledger.  Identity writes to the transactions layer (Cardano) are permissionless.  As nodes scale and participation increases, the high-availability query layer will be in the hands of additional node operators and vendors.
 
-# Introduction
+A sound & person-sovereign identity is composable, fraud-resistant and context-dependent: it incorporates person, place and time.  
 
-A sound & person-sovereign identity is context-dependent: it incorporates person, place and time.  A sound identity is maximally fraud-resistant yet freely composable.  Our objective is 100% identity sovereignty.  We currently straddle a divide between this ideal and practical implementation as we push toward the ideal. 
-
+Built with blakejs, meshjs, nextjs/react.
 
 
 
