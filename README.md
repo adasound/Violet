@@ -10,7 +10,7 @@
 
 ```diff
 https://violet.sage3.org
-Twitter: @hi_violet_id
+Twitter: @hi_violet_id & @adasound_io
 Mail: violet at sage3.org
 Cardano POLICY ID: f0bc74744fd4d617e02950f47855b72c81c694a095e6d74e4e608b6e
 ```
