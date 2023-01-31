@@ -42,7 +42,7 @@ It’s enabled by the immutable storage of encrypted information on Cardano’s 
 
 <br>
 <br>
-In this example, we are building a token that belongs to a Cardano wallet **that points at this Twitter account** - https://twitter.com/Hi_Violet_ID - while **the Twitter account points back at the Cardano wallet.**  This is the crux of a Violet ID - bidirectional pointing between any number of contexts and Cardano wallets to ultimately create a verifiable identity mesh.
+In this example, we are building a token that belongs to a Cardano wallet that points at a Twitter account - https://twitter.com/Hi_Violet_ID - while the Twitter account points back at the Cardano wallet.  <b> This is the crux of a Violet ID - bidirectional pointing between an identity wallet (on Cardano) and the context (in this case, Twitter).  This can be repeated for multiple contexts to create an identity mesh. </b>
 <br>
 <br>
 
@@ -117,8 +117,9 @@ c6fd852552d272912f4740e15847618a86e217f71f5419d25e1031afee585313896444934eb04b
 903a685b1448b755d56f701afe9be2ce')
 ```
   
-**Result: '0ed4e5497c01b9c5ba2ab6f5a5e9bab0beac2ba7baed050499112d88712b25b8'**
-**This ID can be viewed here:**
+<b>Result: '0ed4e5497c01b9c5ba2ab6f5a5e9bab0beac2ba7baed050499112d88712b25b8.'</b>
+
+<b>This ID can be viewed here:</b>
 
 
 <a href = "https://cexplorer.io/tx/7cad983c6f64668945804486ed5b7add071be8165fce3f4d3410d0324295b545/metadata#data">
@@ -130,16 +131,16 @@ https://cexplorer.io/tx/7cad983c6f64668945804486ed5b7add071be8165fce3f4d3410d032
 <hr>
 
 ```
-@@ If this ID is displayed on this Twitter account, then the Twitter account (with a fixed handle) and
+If this ID is displayed on this Twitter account, then the Twitter account (with a fixed handle) and
 the on-chain identity are pointing at each other. We can now map more identities as we wish
 across the internet and IRL. We can have separate wallets to hold similarly grouped social
 contexts (or choose to keep everything separate in unrelated wallets), and we can determine the
-spatial + temporal gating of context-dependent identities. @@
+spatial + temporal gating of context-dependent identities.
 
-@@ More to follow re. practical implementation and next steps for this project (Violet User Manual
-Part II)..
+<b>More to follow re. practical implementation and next steps for this project (Violet User Manual
+Part II)..</b>
 ```
-
+https://violet.sage3.org
 
 
 
