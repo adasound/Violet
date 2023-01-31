@@ -27,7 +27,7 @@ yarn start
 
 Violet is a novel identity protocol.  Its storage layer is Cardano.  It will soon run on a publicly callable swarm network that is available for queries by any participating application, internet or otherwise, that requires high availability and the uncompromising security of Cardano's ledger.  Identity writes to the transactions layer (Cardano) are permissionless.  As nodes scale and participation increases, the high-availability query layer will be in the public domain and accessible to vendors for applications requiring identity verification / validation. 
 
-Built with blakejs, <a href="https://github.com/ meshjs, nextjs/react, 
+Built with blakejs / <a href="https://github.com/MeshJS/mesh">meshjs</a> / nextjs+react / Cardano . 
 
 
 # A primer on how it works (Violet User’s Manual Part I)
