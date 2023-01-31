@@ -111,7 +111,7 @@ c6fd852552d272912f4740e15847618a86e217f71f5419d25e1031afee585313896444934eb04b
 **Result: '0ed4e5497c01b9c5ba2ab6f5a5e9bab0beac2ba7baed050499112d88712b25b8'**
 **This ID can be viewed here:**
 
-```diff html
+```
 <a href = "https://cexplorer.io/tx/7cad983c6f64668945804486ed5b7add071be8165fce3f4d3410d0324295b545/metadata#data">
 https://cexplorer.io/tx/7cad983c6f64668945804486ed5b7add071be8165fce3f4d3410d0324295b545/metadata#data
   </a>
