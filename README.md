@@ -35,10 +35,16 @@ Built with blakejs / <a href="https://github.com/MeshJS/mesh">meshjs</a> / nextj
 
 # A primer on how it works (Violet User’s Manual Part I)
 
+
 Person, place and time: building a Violet ID by example.  Violet enables the mapping of identities across the internet and in day-to-day contexts.
 It’s enabled by the immutable storage of encrypted information on Cardano’s ledger. We highlight the straightforward hashing steps below. More will follow in the form of video explanations / practical use of the web UI and coming offline + ID swarm tools, but here’s the dirt on how an ID is composed using Violet. We welcome criticism and suggestions.
 
 
+<br>
+<br>
+In this example, we are building a token that belongs to a Cardano wallet **that points at this Twitter account** - https://twitter.com/Hi_Violet_ID - while **the Twitter account points back at the Cardano wallet.**  This is the crux of a Violet ID - bidirectional pointing between any number of contexts and Cardano wallets to ultimately create a verifiable identity mesh.
+<br>
+<br>
 
 Inputs for the ID:
 1. Context: 'twitter.com'
