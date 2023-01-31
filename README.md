@@ -112,7 +112,9 @@ c6fd852552d272912f4740e15847618a86e217f71f5419d25e1031afee585313896444934eb04b
 **This ID can be viewed here:**
 
 ```diff
-<link>https://cexplorer.io/tx/7cad983c6f64668945804486ed5b7add071be8165fce3f4d3410d0324295b545/metadata#data</link>
+<a href = https://cexplorer.io/tx/7cad983c6f64668945804486ed5b7add071be8165fce3f4d3410d0324295b545/metadata#data>
+https://cexplorer.io/tx/7cad983c6f64668945804486ed5b7add071be8165fce3f4d3410d0324295b545/metadata#data
+  </a>
 ```
   
 ```diff
