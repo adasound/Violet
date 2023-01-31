@@ -14,6 +14,9 @@ Twitter: @hi_violet_id
 Mail: violet at sage3.org
 Cardano POLICY ID: f0bc74744fd4d617e02950f47855b72c81c694a095e6d74e4e608b6e
 ```
+<br>  
+<hr>
+<br>
 
 # To build and run the webUI:
 
@@ -111,13 +114,16 @@ c6fd852552d272912f4740e15847618a86e217f71f5419d25e1031afee585313896444934eb04b
 **Result: '0ed4e5497c01b9c5ba2ab6f5a5e9bab0beac2ba7baed050499112d88712b25b8'**
 **This ID can be viewed here:**
 
-```
+
 <a href = "https://cexplorer.io/tx/7cad983c6f64668945804486ed5b7add071be8165fce3f4d3410d0324295b545/metadata#data">
 https://cexplorer.io/tx/7cad983c6f64668945804486ed5b7add071be8165fce3f4d3410d0324295b545/metadata#data
   </a>
+
+<br>
+<br>
+<hr>
+
 ```
-  
-```diff
 @@ If this ID is displayed on this Twitter account, then the Twitter account (with a fixed handle) and
 the on-chain identity are pointing at each other. We can now map more identities as we wish
 across the internet and IRL. We can have separate wallets to hold similarly grouped social
@@ -125,7 +131,7 @@ contexts (or choose to keep everything separate in unrelated wallets), and we ca
 spatial + temporal gating of context-dependent identities. @@
 
 @@ More to follow re. practical implementation and next steps for this project (Violet User Manual
-Part II).. @@
+Part II)..
 ```
 
 
