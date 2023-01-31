@@ -83,7 +83,7 @@ var4. Blake2bHex('GsH');
 c7c2e9c19549b443ebfda2062de87ddb857ecbe5dc565484fdf'
 ```
   
-var5. Blake2bHex(''); (..no extra string, remember.)
+var5. Blake2bHex(''); (..as mentioned, no extra string for this one.  it's supposed to be publicly verifiable.)
 
 ```diff
 '786a02f742015903c6c6fd852552d272912f4740e15847618a86e217f71f5419d25e1031afee58
