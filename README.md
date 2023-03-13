@@ -42,7 +42,11 @@ It’s enabled by the immutable storage of encrypted information on Cardano’s 
 
 <br>
 <br>
-In this example, we are building a token that belongs to a Cardano wallet that points at a Twitter account - https://twitter.com/Hi_Violet_ID - while the Twitter account points back at the Cardano wallet.  <b> This is the crux of a Violet ID - bidirectional pointing between an identity wallet (on Cardano) and the context (in this case, Twitter).  This can be repeated for multiple contexts to create an identity mesh. </b>
+In this example, we are building a token that belongs to a Cardano wallet that points at a Twitter account - https://twitter.com/Hi_Violet_ID - while the Twitter account points back at the Cardano wallet.  <b> This is the crux of a Violet ID - bidirectional pointing between an identity wallet (on Cardano) and the context (in this case, Twitter).  This can be repeated for multiple contexts to create <u>an identity mesh</u>. </b>
+<br>
+<br>
+<u>The Violet identity mesh</u>
+
 <br>
 <br>
 
